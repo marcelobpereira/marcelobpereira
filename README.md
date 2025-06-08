@@ -67,7 +67,7 @@ Sou Marcelo Pereira, DEV em formação pela Universidade Estácio de Sá. Você 
 />
 </br>
 ### 📊 Estatísticas
-<p>
+<div "aling=center""display:grid">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -76,9 +76,9 @@ Sou Marcelo Pereira, DEV em formação pela Universidade Estácio de Sá. Você 
     src="https://github-readme-stats.vercel.app/api?username=marcelobpereira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="160" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelobpereira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</div>
